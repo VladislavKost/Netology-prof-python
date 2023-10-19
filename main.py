@@ -1,6 +1,6 @@
 from application.salary import calculate_salary, plot_salary
 from application.db.people import get_employees
-from application.db.salary import month_salary
+from application.db.people_salary import month_salary
 from datetime import date
 
 
